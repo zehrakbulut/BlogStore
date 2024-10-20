@@ -1,0 +1,11 @@
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DtoLayer\bin\Debug\net8.0\Blog.DtoLayer.deps.json
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DtoLayer\bin\Debug\net8.0\Blog.DtoLayer.dll
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DtoLayer\bin\Debug\net8.0\Blog.DtoLayer.pdb
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DtoLayer\obj\Debug\net8.0\Blog.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DtoLayer\obj\Debug\net8.0\Blog.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DtoLayer\obj\Debug\net8.0\Blog.DtoLayer.AssemblyInfo.cs
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DtoLayer\obj\Debug\net8.0\Blog.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DtoLayer\obj\Debug\net8.0\Blog.DtoLayer.dll
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DtoLayer\obj\Debug\net8.0\refint\Blog.DtoLayer.dll
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DtoLayer\obj\Debug\net8.0\Blog.DtoLayer.pdb
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DtoLayer\obj\Debug\net8.0\ref\Blog.DtoLayer.dll

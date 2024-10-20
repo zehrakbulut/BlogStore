@@ -1,0 +1,11 @@
+C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\bin\Debug\net8.0\Blog.EntityLayer.deps.json
+C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\bin\Debug\net8.0\Blog.EntityLayer.dll
+C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\bin\Debug\net8.0\Blog.EntityLayer.pdb
+C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\obj\Debug\net8.0\Blog.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\obj\Debug\net8.0\Blog.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\obj\Debug\net8.0\Blog.EntityLayer.AssemblyInfo.cs
+C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\obj\Debug\net8.0\Blog.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\obj\Debug\net8.0\Blog.EntityLayer.dll
+C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\obj\Debug\net8.0\refint\Blog.EntityLayer.dll
+C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\obj\Debug\net8.0\Blog.EntityLayer.pdb
+C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\obj\Debug\net8.0\ref\Blog.EntityLayer.dll

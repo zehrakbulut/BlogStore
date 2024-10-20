@@ -1,0 +1,17 @@
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\bin\Debug\net8.0\Blog.DataAccessLayer.deps.json
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\bin\Debug\net8.0\Blog.DataAccessLayer.runtimeconfig.json
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\bin\Debug\net8.0\Blog.DataAccessLayer.dll
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\bin\Debug\net8.0\Blog.DataAccessLayer.pdb
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\bin\Debug\net8.0\Blog.EntityLayer.dll
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\bin\Debug\net8.0\Blog.EntityLayer.pdb
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\Blog.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\Blog.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\Blog.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\Blog.DataAccessLayer.AssemblyInfo.cs
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\Blog.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\Blog.Dat.9637A461.Up2Date
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\Blog.DataAccessLayer.dll
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\refint\Blog.DataAccessLayer.dll
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\Blog.DataAccessLayer.pdb
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\Blog.DataAccessLayer.genruntimeconfig.cache
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\ref\Blog.DataAccessLayer.dll
