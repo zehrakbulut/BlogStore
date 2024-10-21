@@ -15,3 +15,4 @@ C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0
 C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\Blog.DataAccessLayer.pdb
 C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\Blog.DataAccessLayer.genruntimeconfig.cache
 C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\ref\Blog.DataAccessLayer.dll
+C:\Users\excalıbur\source\repos\BlogStore\Blog.DataAccessLayer\obj\Debug\net8.0\Blog.DataAccessLayer.sourcelink.json

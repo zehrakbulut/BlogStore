@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!doctype html>
+<html lang="en">
+
+<head>
+   
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Mutfak Blog - Blog Category Bootstrap Responsive Website Template | Index : W3layouts</title>
+
+    <link href="//fonts.googleapis.com/css?family=Nunito:400,600,700,800&display=swap" rel="stylesheet">
+
+    
+    <link rel="stylesheet" href="~/Blog/assets/css/style-starter.css">
+
+</head>
+<body>
+   
+    @await Component.InvokeAsync("_HeadLayoutComponentPartial")
+   
+    @RenderBody()
+
+    @await Component.InvokeAsync("_FooterLayoutComponentPartial")
+
+    <button onclick="topFunction()" id="movetop" title="Go to top">
+        &#10548;
+    </button>
+    
+    @await Component.InvokeAsync("_ScriptLayoutComponentPartial")
+
+</body>
+
+</html>

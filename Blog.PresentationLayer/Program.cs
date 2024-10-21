@@ -1,4 +1,8 @@
+using Blog.BusinessLayer.Abstract;
+using Blog.BusinessLayer.Concrete;
+using Blog.DataAccessLayer.Abstract;
 using Blog.DataAccessLayer.Concrete;
+using Blog.DataAccessLayer.EntityFramework;
 using Microsoft.EntityFrameworkCore;
 using System;
 var builder = WebApplication.CreateBuilder(args);
@@ -10,7 +14,30 @@ builder.Services.AddDbContext<DbBlogContext>(options =>
 });
 
 // Add services to the container.
+
+builder.Services.AddScoped<IAboutDal,EfAboutDal>();
+builder.Services.AddScoped<IAboutService, AboutManager>();
+
+builder.Services.AddScoped<ICategoryDal, EfCategoryDal>();
+builder.Services.AddScoped<ICategoryService, CategoryManager>();
+
+builder.Services.AddScoped<IContactDal, EfContactDal>();
+builder.Services.AddScoped<IContactService, ContactManager>();
+
+builder.Services.AddScoped<IInformationDal, EfInformationDal>();
+builder.Services.AddScoped<IInformationService, InformationManager>();
+
+builder.Services.AddScoped<IMapDal, EfMapDal>();
+builder.Services.AddScoped<IMapService, MapManager>();
+
+builder.Services.AddScoped<IRecipeDal, EfRecipeDal>();
+builder.Services.AddScoped<IRecipeService, RecipeManager>();
+
+builder.Services.AddScoped<ISubscribeDal,EfSubscribeDal>();
+builder.Services.AddScoped<ISubscribeService, SubscribeManager>();
+
 builder.Services.AddControllersWithViews();
+
 
 var app = builder.Build();
 

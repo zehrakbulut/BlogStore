@@ -15,3 +15,4 @@ C:\Users\excalıbur\source\repos\BlogStore\Blog.BusinessLayer\obj\Debug\net8.0\B
 C:\Users\excalıbur\source\repos\BlogStore\Blog.BusinessLayer\obj\Debug\net8.0\refint\Blog.BusinessLayer.dll
 C:\Users\excalıbur\source\repos\BlogStore\Blog.BusinessLayer\obj\Debug\net8.0\Blog.BusinessLayer.pdb
 C:\Users\excalıbur\source\repos\BlogStore\Blog.BusinessLayer\obj\Debug\net8.0\ref\Blog.BusinessLayer.dll
+C:\Users\excalıbur\source\repos\BlogStore\Blog.BusinessLayer\obj\Debug\net8.0\Blog.BusinessLayer.sourcelink.json

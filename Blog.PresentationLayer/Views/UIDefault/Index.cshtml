@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/BlogLayout/Index.cshtml";
+}
+
+@await Component.InvokeAsync("_BannerLayoutComponentPartial")
+
+<div class="ad-image text-center pb-lg-5">
+    <div class="container">
+        <h6 class="advert-decs">- Reklam -</h6>
+        <a class="widget-ad-link" target="_blank" href="#url">
+            <img src="~/Blog/assets/images/ad.jpg" alt="- Advertisement -" class="radius-image img-fluid">
+        </a>
+    </div>
+</div>
+
+<div class="w3l-searchblock w3l-homeblock1 py-5">
+    <div class="container py-lg-4 py-md-3">
+
+        @await Component.InvokeAsync("_RecipesLayoutComponentPartial")
+
+    </div>
+</div>
+
+<section class="grids-1 py-5" id="trip">
+    <div class="grids py-lg-5 py-md-4">
+        <div class="container">
+            <div class="row grids-gap">
+                <div class="col-lg-4 align-self">
+                    <div class="text-left">
+                        <h3 class="title-left mb-3">Kategoriler</h3>
+                        <p class="text-para">
+                            Curabitur id gravida risus. Fusce eget ex, nisi ac sed,
+                            lacinia est. Quisque ut lectus, eros et, commodo risus.
+                            Nullam sit amet laoreet elit. non magna a velit.
+                        </p>
+                    </div>
+                </div>
+                @await Component.InvokeAsync("_CategoriesLayoutComponentPartial")
+            </div>
+        </div>
+    </div>
+</section>
+
+@await Component.InvokeAsync("_MinutesMenuLayoutComponentPartial")
+
+@await Component.InvokeAsync("_NewsletterLayoutComponentPartial")
+
+@* @await Component.InvokeAsync("_DessertLayoutComponentPartial") *@
