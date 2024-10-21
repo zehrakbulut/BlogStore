@@ -5,6 +5,206 @@
       "PackagePath": "staticwebassets\\Blog.PresentationLayer.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\about.html",
+      "PackagePath": "staticwebassets\\Blog\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\css\\style-starter.css",
+      "PackagePath": "staticwebassets\\Blog\\assets\\css\\style-starter.css"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Blog\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Blog\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Blog\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Blog\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Blog\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\a1.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\a2.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\a3.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\a4.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\a5.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\a5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\about1.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\about1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\ad.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\author.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\cake1.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\cake1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\cake2.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\cake2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\cake3.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\cake3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\cake4.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\cake4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\cake5.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\cake5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\cake6.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\cake6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\cake7.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\cake7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\cake8.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\cake8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\drinks.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\drinks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\img-sprite.png",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\img-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\meal1.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\meal1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\meal2.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\meal2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\meal3.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\meal3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\meal4.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\meal4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\recipe.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\recipe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\side.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\side.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\single.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\images\\video.jpg",
+      "PackagePath": "staticwebassets\\Blog\\assets\\images\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Blog\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Blog\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Blog\\assets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\assets\\js\\theme-change.js",
+      "PackagePath": "staticwebassets\\Blog\\assets\\js\\theme-change.js"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\contact.html",
+      "PackagePath": "staticwebassets\\Blog\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\index.html",
+      "PackagePath": "staticwebassets\\Blog\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\Blog\\starter-license-W3Layouts.txt",
+      "PackagePath": "staticwebassets\\Blog\\starter-license-W3Layouts.txt"
+    },
+    {
       "Id": "C:\\Users\\excalıbur\\source\\repos\\BlogStore\\Blog.PresentationLayer\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
