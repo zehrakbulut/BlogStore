@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Blog.PresentationLayer.ViewComponents.BlogLayoutViewComponents
+namespace WebUI.ViewComponents
 {
-    public class _DessertLayoutComponentPartial:ViewComponent
+    public class _DessertLayoutComponentPartial : ViewComponent
     {
         public IViewComponentResult Invoke()
         {

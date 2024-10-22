@@ -15,5 +15,8 @@ namespace Blog.EntityLayer.Entities
         public TimeSpan Time { get; set; }
         public DateTime Date { get; set; }
         public string ChefName { get; set; }
+
+        public int CategoryId { get; set; }
+        public Category Category { get; set; }
     }
 }

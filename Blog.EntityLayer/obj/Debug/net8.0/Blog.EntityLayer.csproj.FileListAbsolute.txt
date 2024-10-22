@@ -9,3 +9,4 @@ C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\obj\Debug\net8.0\Blo
 C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\obj\Debug\net8.0\refint\Blog.EntityLayer.dll
 C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\obj\Debug\net8.0\Blog.EntityLayer.pdb
 C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\obj\Debug\net8.0\ref\Blog.EntityLayer.dll
+C:\Users\excalıbur\source\repos\BlogStore\Blog.EntityLayer\obj\Debug\net8.0\Blog.EntityLayer.sourcelink.json
